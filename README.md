@@ -8,9 +8,14 @@ This repo demonstrates the CRISP-DM operation on Airbnb Dataset
 
 To begin Clone this repo and extract the dataset.zip file which contains the dataset.
 
-Open the  [juptyer file](https://github.com/ian0549/CRISP_DM-on-AIRBNB-Data/blob/main/crisp-dm-process-on-seatle-airbnb-data.ipynb)
+Open the  [juptyer file](https://github.com/ian0549/CRISP_DM-on-AIRBNB-Data/blob/main/crisp-dm-process-on-seatle-airbnb-data.ipynb) and Run the Notebook
 
-Run the Notebook
+_Make Sure to update the directory of the dataset in the notebook 
+
+
+**Or**
+
+Click [here](https://www.kaggle.com/ianakoto/crisp-dm-process-on-seatle-airbnb-data) to direct you to the notebook on kaggle and Run it. No need to download the dataset
 
 # Summary of the Analysis
 
