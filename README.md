@@ -12,7 +12,7 @@ However, if you are setting up in your own environment, the following libraries 
 
 To begin Clone this repo and extract the dataset.zip file which contains the dataset.
 
-Open the  [juptyer file](https://github.com/ian0549/CRISP_DM-on-AIRBNB-Data/blob/main/crisp-dm-process-on-seatle-airbnb-data .ipynb) and Run the Notebook
+Open the  [juptyer file](https://github.com/ian0549/CRISP_DM-on-AIRBNB-Data/blob/main/crisp-dm-process-on-seatle-airbnb-data.ipynb) and Run the Notebook
 
 Make Sure to update the directory of the dataset in the notebook 
 
@@ -39,7 +39,7 @@ To better understand, the following questions were used in the analysis:
 # FILE DISCRIPTIONS
 
 
- * [crisp-dm-process-on-seatle-airbnb-data .ipynb](./crisp-dm-process-on-seatle-airbnb-data .ipynb) - Notebook for the analysis
+ * [crisp-dm-process-on-seatle-airbnb-data.ipynb](./crisp-dm-process-on-seatle-airbnb-data.ipynb) - Notebook for the analysis
  * [dataset.zip](./dataset.zip) - Seattle Airbnb dataset
 
 
