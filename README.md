@@ -3,6 +3,7 @@ Performing Datascience operations(CRISP-DM) on seattle AiRBnB dataset
 
 This repo demonstrates the CRISP-DM operation on Airbnb Dataset
 
+Link to blogpost [CRISP-DM process on Airbnb Seatle Dataset](https://iancecilakoto.medium.com/how-can-new-hosts-have-a-good-start-and-earnings-at-airbnb-ae97500dc26a)
 
 # Getting Started
 
@@ -25,7 +26,7 @@ This notebook uses data from the Seattle area of Airbnb and has been analyzed to
 
 From the histogram of showing property type and number of reviews, House and Apartment are what most people are intereste in.
 
-**What are the top 10 characteristics of listing that influence the price of listings?**
+**What are the characteristics of listing that influence the price of listings?**
 
 From the statistical inference of the model,property types with Boat,Dorm,Loft, and Treehouse greatly influenced the price of listings. Again, Shared room type had a high price tag than Prive room. Then, Doorman and Washer amenities really spiked the prices of listings. We also saw that higher number of bedrroms increase prices of listings
 
