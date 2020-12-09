@@ -41,7 +41,9 @@ To better understand, the following questions were used in the analysis:
 
  * [crisp-dm-process-on-seatle-airbnb-data.ipynb](./crisp-dm-process-on-seatle-airbnb-data.ipynb) - Notebook for the analysis
  * [dataset.zip](./dataset.zip) - Seattle Airbnb dataset
-
+   * calender.csv
+   * listings.csv
+   * reviews.csv
 
 
 
