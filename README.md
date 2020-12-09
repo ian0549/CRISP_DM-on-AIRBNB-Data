@@ -34,12 +34,23 @@ To better understand, the following questions were used in the analysis:
 
 * When is the best time to host a listing for booking?
 
+
+
 # FILE DISCRIPTIONS
+
+
+ * [crisp-dm-process-on-seatle-airbnb-data.ipynb](./crisp-dm-process-on-seatle-airbnb-data.ipynb) - Notebook for the analysis
+ * [dataset.zip](./dataset.zip) - Seattle Airbnb dataset
+
+
+
+
 
 # RESULTS
 
 The main findings of the code can be found at the post below
 Link to blogpost [CRISP-DM process on Airbnb Seatle Dataset](https://iancecilakoto.medium.com/how-can-new-hosts-have-a-good-start-and-earnings-at-airbnb-ae97500dc26a)
+
 
 
 
